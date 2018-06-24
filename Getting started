@@ -1,0 +1,14 @@
+//here we are using nodemcu //
+
+connect the nodemcu to the pc open arduino ide and go do the following changes 
+
+change the port to the recent one that come when you connect the nodemcu 
+board change it to nodemcu
+( if you dont have that go to prefreces in file and add this url 
+            {  http://arduino.esp8266.com/stable/package_esp8266com_index.json }
+
+  now go back to boards and go to boardmanger and type nodemcu or esp8266 install it 
+  )
+  
+  As you have done above thing well it time to upload some code 
+  
