@@ -1,0 +1,19 @@
+
+The project aims at designing an advanced home automation system using Blynk web server and Nodemcu technology. 
+
+The devices can be switched ON/OFF and sensors can be read using a Voice commands like google assistant , Alexa , etc, through Wi-Fi.
+
+Automation is the most frequently spelled term in the field of electronics. The hunger for automation brought many revolutions in the 
+existing technologies. These had greater importance than any other technologies due to its user-friendly nature. 
+
+These can be used as a replacement of the existing switches in home which produces sparks and also results in fire accidents in few 
+situations. Considering the advantages of Wi-Fi an advanced automation system was developed to control the appliances in the house.
+
+Wi-Fi (Short for Wireless Fidelity) is a wireless technology that uses radio frequency to transmit data through the air. Wi-Fi has 
+initial speeds of 1mbps to 2mbps. Wi-Fi transmits data in the frequency band of 2.4 – 2.5 GHz. It implements the concept of frequency
+division multiplexing technology. Range of Wi-Fi technology is 40-300 feet.
+
+The controlling device for the automation in the project is a Nodemcu (Esp8266). The data sent from Mobile over Wi-Fi will be received
+by  Nodemcu and 
+
+Arduino UNO. Arduino UNO reads the data and decides the webhook switch and process the data send signals to the nodemcu ,then nodemcu decide to turn on/off electrical devices connected to it through Relays.
