@@ -17,3 +17,26 @@ The controlling device for the automation in the project is a Nodemcu (Esp8266).
 by  Nodemcu and 
 
 Arduino UNO. Arduino UNO reads the data and decides the webhook switch and process the data send signals to the nodemcu ,then nodemcu decide to turn on/off electrical devices connected to it through Relays.
+
+
+****Idea/Goal****
+•	The goal of this project is to develop a home automation system that gives the user complete control over all remotely controllable home.
+•	The automation system will have the ability to be controlled from a central host PC, the Internet, and also remotely accessed via a 
+Mobile phone and Blynk server , IFTTT services and our own application(In future though!).
+
+***survey******
+When people think about home automation, most of them may imagine living in a smart home: One remote controller for every household 
+appliance, cooking the rice automatically To some extent home automation equals to smart home.
+They both bring out smart living condition and make our life more convenient and fast.
+
+Here in IIIT KOTTAYAM we have made it come true .
+
+***Scope of Project *****
+Day by day, the field of automation is blooming and these systems are having great impact on human beings. The project which is to be 
+implemented is a home automation using Easy IOT Webserver and WIFI and has very good future development.
+
+In the current we are using Blynk webserver through our smartphones so the home appliances can be controlled using webserver on cloud.
+
+Currently We will be using Blynk India Ip for network cloud , And using IFTTT services for voice commands .
+
+
